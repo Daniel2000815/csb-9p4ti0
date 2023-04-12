@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://daniel2000815.github.io/csb-9p4ti0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://daniel2000815.github.io/csb-9p4ti0/static/js/main.509edad8.chunk.js",
+    "main.js.map": "https://daniel2000815.github.io/csb-9p4ti0/static/js/main.509edad8.chunk.js.map",
+    "runtime-main.js": "https://daniel2000815.github.io/csb-9p4ti0/static/js/runtime-main.b3147f46.js",
+    "runtime-main.js.map": "https://daniel2000815.github.io/csb-9p4ti0/static/js/runtime-main.b3147f46.js.map",
+    "static/js/2.2d506b4b.chunk.js": "https://daniel2000815.github.io/csb-9p4ti0/static/js/2.2d506b4b.chunk.js",
+    "static/js/2.2d506b4b.chunk.js.map": "https://daniel2000815.github.io/csb-9p4ti0/static/js/2.2d506b4b.chunk.js.map",
+    "index.html": "https://daniel2000815.github.io/csb-9p4ti0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://daniel2000815.github.io/csb-9p4ti0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2d506b4b.chunk.js.LICENSE.txt": "https://daniel2000815.github.io/csb-9p4ti0/static/js/2.2d506b4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3147f46.js",
+    "static/js/2.2d506b4b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.509edad8.chunk.js"
+  ]
+}
